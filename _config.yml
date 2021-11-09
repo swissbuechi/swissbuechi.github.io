@@ -20,11 +20,11 @@
 
 title: swissbuechi techblog
 email: raphael.buechi@netider.ch
-description: >- Just a few best practices and instuctions I want to share with the world.
+description: Just a few best practices and instuctions I want to share with the world.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://swissbuechi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-github_username:  swissbuechi
+github_username: swissbuechi
 
 # Build settings
 theme: minima
