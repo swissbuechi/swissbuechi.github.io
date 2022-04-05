@@ -18,9 +18,9 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon
 locale: "de-CH"
 title: "swissbuechi techblog"
 title_separator: "-"
-subtitle: Azure, Docker, Linux, Java and VueJs
+subtitle: Azure, Docker, Linux, Java and Vue.js
 name: "Raphael Büchi"
-description: "A techblog about Azure, Docker, Linux, Java and VueJs"
+description: "A techblog about Azure, Docker, Linux, Java and Vue.js"
 url: "https://swissbuechi.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "swissbuechi/swissbuechi.github.io"
