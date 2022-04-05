@@ -26,8 +26,9 @@ to have fun with everything related to information technology.
 The next big step was my iPod touch which I got from my godfather at the age of twelve. Very quickly I
 realised that I need my fathers credit card to be able to download all the apps everyone was talking about.
 Thank god my father never even spent a single penny for me in the app store. I needed a solution.
-"Jailbreak" what even is this? I and a childhood friend of mine dug out my dusty old linux machine
-and started trying to "jailbreak" our iPods till we finally got the magic app called "cydia" on out home screens.
+"jailbreak" what even is this? I and a childhood friend of mine dug out my dusty old linux machine
+and started trying to "jailbreak" our iPods till we finally got the magic app called "cydia" to show up
+on our iOS 4 home screens.
 
 ## Current jobs
 
