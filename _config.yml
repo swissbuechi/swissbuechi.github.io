@@ -108,46 +108,64 @@ author:
   location: "Switzerland"
   email:
   links:
-    - label: "Email"
+    - label: "E-Mail"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:raphael.buechi@netider.ch"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://netider.ch"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://ch.linkedin.com/in/swissbuechi?trk=public_profile_browsemap"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/swissbuechi"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/fuu_12_"
+    - label: "netider.ch it solutions"
+      icon: "fas fa-fw fa-link"
+      url: "https://netider.ch"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      # url: "https://twitter.com/"
+#    - label: "Facebook"
+#      icon: "fab fa-fw fa-facebook-square"
+#      # url: "https://facebook.com/"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      # url:
+#    - label: "Facebook"
+#      icon: "fab fa-fw fa-facebook-square"
+#      # url:
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/swissbuechi"
+#    - label: "GitLab"
+#      icon: "fab fa-fw fa-gitlab"
+#      # url:
+#    - label: "Bitbucket"
+#      icon: "fab fa-fw fa-bitbucket"
+#      # url:
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      # url:
+    - label: "E-Mail"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:raphael.buechi@netider.ch"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://ch.linkedin.com/in/swissbuechi?trk=public_profile_browsemap"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/swissbuechi"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://www.instagram.com/fuu_12_"
+#    - label: "netider.ch it solutions"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://netider.ch"
 
 
 # Reading Files
@@ -218,7 +236,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: "Europe/Zurich" # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
