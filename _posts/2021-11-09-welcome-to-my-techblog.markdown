@@ -30,6 +30,7 @@ Thank god my father never even spent a single penny for me in the app store. I n
 and started trying to "jailbreak" our iPods till we finally got the magic app called "cydia" on out home screens.
 
 ## Current jobs
+
 I'm currently working full-time as IT-Specialist at [Dreikom AG](https://dreikom.ch).
 My main tasks involve building and managing hybrid and cloud environments for our customers.
 
