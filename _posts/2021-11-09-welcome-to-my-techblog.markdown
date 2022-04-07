@@ -3,6 +3,9 @@ title:  "Welcome to my new techblog"
 date:   2021-11-09 21:23:38 +0000
 categories: announcements
 ---
+
+Welcome to my techblog. I'm a Software Developer and System Engineer from Switzerland and this is my introduction.
+
 ## About me
 
 I love information technology and everything involved. I was about ten years old when my father first handed
