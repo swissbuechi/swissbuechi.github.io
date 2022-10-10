@@ -1,7 +1,7 @@
 ---
 title:  "Welcome to my new techblog"
 date:   2021-11-09 21:23:38 +0000
-categories: announcements
+categories: Announcements
 ---
 
 Welcome to my techblog. I'm a Software Developer and System Engineer from Switzerland and this is my introduction.

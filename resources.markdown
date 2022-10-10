@@ -4,10 +4,10 @@ layout: single
 author_profile: true
 ---
 
-### Tools
+## Tools
 
 <https://github.com/swissbuechi/tools>
 
-### Boilerplates
+## Boilerplates
 
 <https://github.com/swissbuechi/boilerplates>
