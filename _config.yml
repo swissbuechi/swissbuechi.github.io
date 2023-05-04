@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale: "de-CH"
 title: "swissbuechi techblog"
 title_separator: "-"
-subtitle: Azure, Docker, Linux, Java and Vue.js
+subtitle: "Microsoft, Azure, Cloud, Container"
 name: "Raphael Büchi"
-description: "A techblog about Azure, Docker, Linux, Java and Vue.js"
+description: "A techblog about Microsoft, Azure, Cloud, Container"
 url: "https://swissbuechi.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "swissbuechi/swissbuechi.github.io"
@@ -314,4 +314,3 @@ defaults:
       related: true
       show_date: true
       toc: true
-      toc_sticky: true
