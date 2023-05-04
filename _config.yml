@@ -123,9 +123,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/fuu_12_"
-    - label: "netider.ch it solutions"
-      icon: "fas fa-fw fa-link"
-      url: "https://netider.ch"
+#    - label: "netider.ch it solutions"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://netider.ch"
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      # url: "https://twitter.com/"
@@ -307,8 +307,8 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
+      author_profile: false
+      read_time: false
       comments: true
       share: true
       related: true
