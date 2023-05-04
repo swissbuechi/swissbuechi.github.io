@@ -104,9 +104,9 @@ analytics:
 author:
   name: "Raphael Büchi"
   avatar: "assets/images/swisbuechi.png"
-  bio: "computer science, code, fashion, hiphop, snowboard"
+  bio: ""
   location: "Switzerland"
-  email:
+  email: "raphael.buechi@netider.ch"
   links:
     - label: "E-Mail"
       icon: "fas fa-fw fa-envelope-square"
@@ -311,6 +311,6 @@ defaults:
       read_time: false
       comments: true
       share: false
-      related: true
+      related: false
       show_date: true
       toc: true
