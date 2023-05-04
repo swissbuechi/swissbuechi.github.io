@@ -106,7 +106,7 @@ author:
   avatar: "assets/images/swisbuechi.png"
   bio: ""
   location: "Switzerland"
-  email: "raphael.buechi@netider.ch"
+  email:
   links:
     - label: "E-Mail"
       icon: "fas fa-fw fa-envelope-square"
@@ -311,6 +311,6 @@ defaults:
       read_time: false
       comments: true
       share: false
-      related: false
+      related: true
       show_date: true
       toc: true
