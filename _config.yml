@@ -103,14 +103,14 @@ analytics:
 # Site Author
 author:
   name: "Raphael Büchi"
-  avatar: "assets/images/swisbuechi.png"
-  bio: ""
+  avatar: "assets/images/swissbuechi.png"
+  bio:
   location: "Switzerland"
   email:
   links:
-    - label: "E-Mail"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:raphael.buechi@netider.ch"
+    # - label: "E-Mail"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "mailto:raphael.buechi@netider.ch"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://ch.linkedin.com/in/swissbuechi?trk=public_profile_browsemap"
